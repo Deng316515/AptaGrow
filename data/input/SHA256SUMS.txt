@@ -1,0 +1,1 @@
+ca260e6ef2ba69c03ca118258a306dc617c1723f6bbc004e2fa977446b4bf60c  pfoa_ligand.pdbqt

@@ -1,0 +1,19 @@
+extends: default.yaml
+
+# Reference environment for the reported Linux run.
+tools:
+  simrna_dir: /root/SimRNA_64bitIntel_Linux
+  mgltools_dir: /root/mgltools_x86_64Linux2_1.5.7
+  vina_gpu_dir: /root/Vina-GPU-2.1/AutoDock-Vina-GPU-2.1
+  vina_gpu_executable: AutoDock-Vina-GPU-2-1
+  pymol_executable: pymol
+
+software_versions:
+  simrna: "3.20"
+  mgltools: "1.5.7"
+  vina_gpu: "2.1"
+  boost: "1.84.0"
+  cuda: "12.4"
+  opencl: "3.0"
+  pymol: "2.5.4"
+  viennarna: "2.4.18"
